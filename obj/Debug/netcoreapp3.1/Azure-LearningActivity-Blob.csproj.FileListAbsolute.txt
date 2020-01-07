@@ -1,0 +1,16 @@
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.exe
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\obj\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.csprojAssemblyReference.cache
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\obj\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.AssemblyInfoInputs.cache
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\obj\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.AssemblyInfo.cs
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.deps.json
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.runtimeconfig.json
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.runtimeconfig.dev.json
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.dll
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.pdb
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\obj\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.csproj.CopyComplete
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\obj\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.dll
+C:\VMShare\Exercise\Azure\LinuxAcademy\Azure-LearningActivity-Blob\Azure-LearningActivity-Blob\obj\Debug\netcoreapp3.1\Azure-LearningActivity-Blob.pdb
