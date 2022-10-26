@@ -1,0 +1,9 @@
+{
+	"name": "mrrdtfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fffae038-001d-4256-bae7-c8c4e41d0fcf",
+		"tenantId": "c51e6651-4a40-4497-ad06-1c4cedd2d456"
+	}
+}
